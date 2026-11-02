@@ -1,0 +1,4 @@
+MI SERVIDOR DE LEFT 4 DEAD 2
+=====================================
+ Iniciando servidor...
+ srcds.exe -console -game left4dead2 +map c1m1_hotel +maxplayers 4 +hostname "Servidor de Efrenm" +sv_password ""
